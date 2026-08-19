@@ -33,7 +33,7 @@ It never invents experience, skills, or metrics you didn't provide — where som
 Clone this repo, then copy the skill into your Claude Code skills folder:
 
 ```bash
-git clone https://github.com/<your-username>/linkedin-ats-analyzer.git
+git clone https://github.com/wellingtonfjr/linkedin-ats-analyzer.git
 
 # Available in every project:
 cp -r linkedin-ats-analyzer/SKILL.md linkedin-ats-analyzer/references ~/.claude/skills/linkedin-ats-analyzer/
